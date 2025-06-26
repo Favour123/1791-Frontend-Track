@@ -25,9 +25,7 @@ A React-based web application demonstrating advanced theme switching functionali
 - **Tailwind CSS** - Utility-first CSS framework integration
 - **shadcn/ui** - High-quality, accessible UI components
 
-## 🚀 Live Demo
 
-**URL**: https://lovable.dev/projects/62498930-1c20-4105-9bdc-9a6e97542032
 
 ## 🛠️ Technologies Used
 
@@ -103,13 +101,6 @@ npm install
 npm run dev
 ```
 
-### Deployment
-Simply open [Lovable](https://lovable.dev/projects/62498930-1c20-4105-9bdc-9a6e97542032) and click Share → Publish.
-
-## 🌐 Custom Domain
-Connect your own domain by navigating to Project > Settings > Domains in Lovable.
-[Learn more about custom domains](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
-
 ## 📝 Usage Examples
 
 ### Basic Theme Toggle
@@ -170,17 +161,3 @@ This project demonstrates:
 
 ## 🤝 Contributing
 
-This project was built with [Lovable](https://lovable.dev) - an AI-powered web development platform. 
-
-To contribute:
-1. Make changes in the Lovable editor
-2. Changes automatically sync to GitHub
-3. Or clone the repo and push changes back
-
-## 📄 License
-
-This project is open source and available under the MIT License.
-
----
-
-Built with ❤️ using [Lovable](https://lovable.dev)
